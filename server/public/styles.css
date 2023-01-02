@@ -1,5 +1,8 @@
 body {
 	font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
 }
 
 #main_content {
@@ -8,7 +11,12 @@ body {
 }
 
 header {
+  font-size: 26px;
 	text-align: center;
+}
+
+footer {
+  font-size: 18px;
 }
 
 .team {
