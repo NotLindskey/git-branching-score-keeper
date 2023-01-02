@@ -50,7 +50,7 @@ Then push:
 
 ### Stretch Goals
 
-- [ ] **feature-styling** - Add styling to make the page look better
+- [x] **feature-styling** - Add styling to make the page look better
    - After adding and committing, merge this branch back to `main`
 
 ### Additional Resources
